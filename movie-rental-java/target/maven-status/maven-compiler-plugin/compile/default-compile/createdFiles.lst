@@ -1,0 +1,6 @@
+movierental\Movie.class
+movierental\Context.class
+movierental\Rental.class
+movierental\Dispatcher.class
+movierental\Customer.class
+movierental\Interceptor.class
